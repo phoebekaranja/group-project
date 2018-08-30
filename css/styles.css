@@ -1,8 +1,9 @@
 .jumbotron{
+  background-color: yellow;
   text-align: center;
-  /* text-decoration:  underline; */
+  text-body:  underline;
   color: blue;
-  border-radius: 10px;
+  border-radius:20 px;
 }
 
 .buttons{
@@ -14,7 +15,6 @@ p{
 h1{
 text-align:center;
 text-decoration: underline;
-color: blue;
 }
 /* img {
   position: center
